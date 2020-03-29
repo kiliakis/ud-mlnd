@@ -1,0 +1,8 @@
+tips:
+	* DRY: Dont repeat yourself
+	* modular code, abstract logic to functions
+	* minimize the numberf of entities
+	* each function focuses on one thing
+	* it is ok to use arbitrary names in functions
+	* use few function arguments
+	* 
